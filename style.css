@@ -38,3 +38,10 @@ section{
     background-image:url(golden.jpg);
     background-repeat:no-repeat;
 }
+ img{
+    margin-top:50px;
+    padding:50px;
+}
+hr{
+    margin:20px;
+}
